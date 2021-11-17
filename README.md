@@ -1,0 +1,1 @@
+testo README di esercitazione 1
